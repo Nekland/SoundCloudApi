@@ -30,7 +30,6 @@ class SoundCloud extends \Nekland\BaseApi\Api
         switch($name) {
             case 'tracks':
                 return new Api\Tracks($this);
-                break;
             default:
                 throw new \InvalidArgumentException(sprintf('Undefined api instance called: "%s"', $name));
         }
