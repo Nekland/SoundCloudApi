@@ -1,7 +1,7 @@
 Soundcloud API
 ==============
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Nekland/SoundCloudApi/badges/quality-score.png?s=efc016250b9c44ff0e710c63c3c2cd2bef4582ca)](https://scrutinizer-ci.com/g/Nekland/SoundCloudApi/)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Nekland/SoundCloudApi/badges/quality-score.png?s=efc016250b9c44ff0e710c63c3c2cd2bef4582ca)](https://scrutinizer-ci.com/g/Nekland/SoundCloudApi/) [![Build Status](https://travis-ci.org/Nekland/SoundCloudApi.svg?branch=master)](https://travis-ci.org/Nekland/SoundCloudApi)
 
 Hello guys. I was searching for a cute api wrapper for soundcloud. I didn't find any so I create mine :) .
 
